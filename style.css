@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;1,400&family=Poppins:ital,wght@0,500;1,400;1,500&family=Work+Sans:wght@400;500&display=swap');
+
+body{
+
+}
+header{
+    background: rgba(255, 144, 14, 0.1);
+}
+.container{
+   width: 1440px;
+   justify-content: center;
+}
+.menu-iteam{
+    display: flex;
+    justify-content: space-between;
+}
